@@ -1,0 +1,20 @@
+.post {
+  color: crimson;
+}
+.button {
+  background-color: rgb(30, 216, 107); 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 4px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px beige;
+}
